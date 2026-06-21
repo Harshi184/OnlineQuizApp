@@ -1,0 +1,152 @@
+[
+  {
+    "question": "Who developed Java?",
+    "options": ["Microsoft", "Sun Microsystems", "Google", "IBM"],
+    "answer": 1
+  },
+  {
+    "question": "What does JVM stand for?",
+    "options": ["Java Variable Machine", "Java Virtual Machine", "Java Vendor Machine", "Java Version Manager"],
+    "answer": 1
+  },
+  {
+    "question": "What does JDK stand for?",
+    "options": ["Java Development Kit", "Java Deployment Kit", "Java Debug Kit", "Java Design Kit"],
+    "answer": 0
+  },
+  {
+    "question": "Which keyword is used for inheritance?",
+    "options": ["implements", "inherits", "extends", "super"],
+    "answer": 2
+  },
+  {
+    "question": "Java is a?",
+    "options": ["Platform Independent", "Platform Dependent", "Database", "Operating System"],
+    "answer": 0
+  },
+  {
+    "question": "Which method is the entry point of a Java program?",
+    "options": ["start()", "run()", "main()", "execute()"],
+    "answer": 2
+  },
+  {
+    "question": "Which company currently owns Java?",
+    "options": ["Microsoft", "Oracle", "IBM", "Google"],
+    "answer": 1
+  },
+  {
+    "question": "Which keyword is used to create an object?",
+    "options": ["class", "object", "new", "create"],
+    "answer": 2
+  },
+  {
+    "question": "Which package is imported automatically?",
+    "options": ["java.util", "java.io", "java.lang", "java.sql"],
+    "answer": 2
+  },
+  {
+    "question": "Which concept allows one class to acquire properties of another?",
+    "options": ["Polymorphism", "Inheritance", "Abstraction", "Encapsulation"],
+    "answer": 1
+  },
+  {
+    "question": "Which keyword refers to the current object?",
+    "options": ["super", "current", "this", "self"],
+    "answer": 2
+  },
+  {
+    "question": "Which keyword is used to inherit from a parent class?",
+    "options": ["implements", "extends", "inherit", "using"],
+    "answer": 1
+  },
+  {
+    "question": "Java supports which programming paradigm?",
+    "options": ["Object-Oriented", "Procedural Only", "Functional Only", "None"],
+    "answer": 0
+  },
+  {
+    "question": "Which loop executes at least once?",
+    "options": ["for", "while", "do-while", "foreach"],
+    "answer": 2
+  },
+  {
+    "question": "What is the size of int in Java?",
+    "options": ["2 bytes", "4 bytes", "8 bytes", "Depends on OS"],
+    "answer": 1
+  },
+  {
+    "question": "Which exception occurs when dividing by zero?",
+    "options": ["IOException", "ArithmeticException", "NullPointerException", "ClassNotFoundException"],
+    "answer": 1
+  },
+  {
+    "question": "Which access modifier provides maximum accessibility?",
+    "options": ["private", "protected", "public", "default"],
+    "answer": 2
+  },
+  {
+    "question": "Which collection allows duplicate values?",
+    "options": ["Set", "HashSet", "List", "TreeSet"],
+    "answer": 2
+  },
+  {
+    "question": "Which collection does not allow duplicates?",
+    "options": ["ArrayList", "LinkedList", "HashSet", "Vector"],
+    "answer": 2
+  },
+  {
+    "question": "Which operator compares values?",
+    "options": ["=", "==", "===", "!="],
+    "answer": 1
+  },
+  {
+    "question": "Which keyword prevents inheritance?",
+    "options": ["static", "final", "const", "private"],
+    "answer": 1
+  },
+  {
+    "question": "Which keyword is used for exception handling?",
+    "options": ["catch", "try", "throw", "All of the above"],
+    "answer": 3
+  },
+  {
+    "question": "Which class is the parent of all Java classes?",
+    "options": ["Main", "Object", "Class", "Root"],
+    "answer": 1
+  },
+  {
+    "question": "Which method is used to print output?",
+    "options": ["System.out.print()", "Console.log()", "echo()", "printf() only"],
+    "answer": 0
+  },
+  {
+    "question": "Which keyword is used for abstraction?",
+    "options": ["abstract", "interface", "Both", "None"],
+    "answer": 2
+  },
+  {
+    "question": "Which type stores true/false values?",
+    "options": ["int", "char", "boolean", "String"],
+    "answer": 2
+  },
+  {
+    "question": "Which method converts String to int?",
+    "options": ["Integer.parseInt()", "parse()", "toInt()", "convert()"],
+    "answer": 0
+  },
+  {
+    "question": "Which statement is used for decision making?",
+    "options": ["if", "switch", "Both", "None"],
+    "answer": 2
+  },
+  {
+    "question": "Which collection is dynamic in size?",
+    "options": ["Array", "ArrayList", "int[]", "char[]"],
+    "answer": 1
+  },
+  {
+    "question": "Java source files use which extension?",
+    "options": [".class", ".java", ".jar", ".jsp"],
+    "answer": 1
+  }
+]

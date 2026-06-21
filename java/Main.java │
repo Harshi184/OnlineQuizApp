@@ -1,0 +1,17 @@
+public class Main {
+
+    public static void main(String[] args) {
+
+        User user =
+            new User("Harshitha");
+
+        user.setScore(5);
+
+        Leaderboard leaderboard =
+            new Leaderboard();
+
+        leaderboard.addUser(user);
+
+        leaderboard.displayLeaderboard();
+    }
+}

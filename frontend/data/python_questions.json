@@ -1,0 +1,152 @@
+[
+  {
+    "question": "Who created Python?",
+    "options": ["Dennis Ritchie", "James Gosling", "Guido van Rossum", "Bjarne Stroustrup"],
+    "answer": 2
+  },
+  {
+    "question": "Python file extension is?",
+    "options": [".java", ".py", ".cpp", ".html"],
+    "answer": 1
+  },
+  {
+    "question": "Python is a?",
+    "options": ["Compiled Language", "Interpreted Language", "Database", "Operating System"],
+    "answer": 1
+  },
+  {
+    "question": "Which keyword is used to define a function?",
+    "options": ["func", "define", "def", "function"],
+    "answer": 2
+  },
+  {
+    "question": "Which data type is mutable?",
+    "options": ["Tuple", "String", "List", "Integer"],
+    "answer": 2
+  },
+  {
+    "question": "Which symbol is used for comments?",
+    "options": ["//", "#", "/*", "--"],
+    "answer": 1
+  },
+  {
+    "question": "Which function displays output?",
+    "options": ["display()", "show()", "print()", "output()"],
+    "answer": 2
+  },
+  {
+    "question": "Which function gets user input?",
+    "options": ["get()", "read()", "scan()", "input()"],
+    "answer": 3
+  },
+  {
+    "question": "Which collection stores key-value pairs?",
+    "options": ["List", "Tuple", "Dictionary", "Set"],
+    "answer": 2
+  },
+  {
+    "question": "Which keyword is used for conditional statements?",
+    "options": ["if", "when", "condition", "case"],
+    "answer": 0
+  },
+  {
+    "question": "Which loop is used to iterate over sequences?",
+    "options": ["for", "repeat", "iterate", "loop"],
+    "answer": 0
+  },
+  {
+    "question": "Python supports OOP?",
+    "options": ["Yes", "No", "Partially", "Only in Python 3"],
+    "answer": 0
+  },
+  {
+    "question": "What is the output type of input()?",
+    "options": ["int", "float", "str", "bool"],
+    "answer": 2
+  },
+  {
+    "question": "Which keyword creates a class?",
+    "options": ["object", "class", "new", "create"],
+    "answer": 1
+  },
+  {
+    "question": "Which module is used for mathematical operations?",
+    "options": ["math", "calc", "number", "operations"],
+    "answer": 0
+  },
+  {
+    "question": "Which operator is used for exponentiation?",
+    "options": ["^", "**", "^^", "//"],
+    "answer": 1
+  },
+  {
+    "question": "Which data type stores True or False?",
+    "options": ["String", "Integer", "Boolean", "List"],
+    "answer": 2
+  },
+  {
+    "question": "Which function returns the length of a list?",
+    "options": ["count()", "size()", "len()", "length()"],
+    "answer": 2
+  },
+  {
+    "question": "Which collection does not allow duplicates?",
+    "options": ["List", "Tuple", "Set", "Dictionary"],
+    "answer": 2
+  },
+  {
+    "question": "What is the output of len('Python')?",
+    "options": ["5", "6", "7", "8"],
+    "answer": 1
+  },
+  {
+    "question": "Which method adds an item to a list?",
+    "options": ["add()", "append()", "insertItem()", "push()"],
+    "answer": 1
+  },
+  {
+    "question": "Which keyword is used to handle exceptions?",
+    "options": ["try", "catch", "handle", "exceptOnly"],
+    "answer": 0
+  },
+  {
+    "question": "Which block handles an exception?",
+    "options": ["catch", "error", "except", "finally"],
+    "answer": 2
+  },
+  {
+    "question": "Which keyword creates an anonymous function?",
+    "options": ["lambda", "anonymous", "func", "inline"],
+    "answer": 0
+  },
+  {
+    "question": "Which framework is built with Python?",
+    "options": ["Spring", "Hibernate", "Django", "Bootstrap"],
+    "answer": 2
+  },
+  {
+    "question": "Which operator checks equality?",
+    "options": ["=", "==", "===", "!="],
+    "answer": 1
+  },
+  {
+    "question": "Which function converts string to integer?",
+    "options": ["str()", "float()", "int()", "number()"],
+    "answer": 2
+  },
+  {
+    "question": "Python lists are?",
+    "options": ["Immutable", "Mutable", "Fixed", "Read Only"],
+    "answer": 1
+  },
+  {
+    "question": "Which keyword is used to import modules?",
+    "options": ["include", "require", "import", "using"],
+    "answer": 2
+  },
+  {
+    "question": "Python was first released in?",
+    "options": ["1991", "1995", "2000", "1985"],
+    "answer": 0
+  }
+]

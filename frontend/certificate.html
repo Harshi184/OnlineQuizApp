@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Certificate of Excellence</title>
+    <link rel="stylesheet" href="css/style.css">
+
+    <style>
+        .certificate {
+            width: 900px;
+            max-width: 95%;
+            margin: 50px auto;
+            background: white;
+            padding: 50px;
+            border: 10px solid gold;
+            border-radius: 20px;
+            text-align: center;
+            color: black;
+            box-shadow: 0 0 25px rgba(0,0,0,0.3);
+        }
+
+        .certificate h1 {
+            font-size: 45px;
+            color: #1e3a8a;
+        }
+
+        .certificate h2 {
+            margin-top: 30px;
+            font-size: 35px;
+            color: #111827;
+        }
+
+        .certificate p {
+            font-size: 22px;
+            margin: 15px 0;
+        }
+
+        .gold {
+            color: #d97706;
+            font-weight: bold;
+        }
+
+        .btn-group {
+            margin-top: 30px;
+        }
+
+        .btn-group button {
+            margin: 10px;
+        }
+    </style>
+</head>
+<body>
+
+<div class="certificate">
+
+    <h1>🏆 Certificate of Excellence 🏆</h1>
+
+    <p>This certificate is proudly awarded to</p>
+
+    <h2 id="studentName"></h2>
+
+    <p>for achieving a perfect score of</p>
+
+    <h2 class="gold">10 / 10 (100%)</h2>
+
+    <p>in the Online Quiz Application</p>
+
+    <p><strong>Category:</strong> <span id="categoryName"></span></p>
+
+    <br>
+
+    <p>
+        Demonstrating outstanding knowledge,
+        dedication, and excellence.
+    </p>
+
+    <br>
+
+    <p id="certificateDate"></p>
+
+    <div class="btn-group">
+        <button onclick="window.print()">
+            Print Certificate
+        </button>
+
+        <button onclick="window.location.href='index.html'">
+            Back To Home
+        </button>
+    </div>
+
+</div>
+
+<script>
+
+document.getElementById("studentName").innerText =
+    localStorage.getItem("username");
+
+document.getElementById("categoryName").innerText =
+    localStorage.getItem("category");
+
+document.getElementById("certificateDate").innerText =
+    "Date: " + new Date().toLocaleDateString();
+
+</script>
+
+</body>
+</html>

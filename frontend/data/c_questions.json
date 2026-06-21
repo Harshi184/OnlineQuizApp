@@ -1,0 +1,152 @@
+[
+  {
+    "question": "Who is known as the father of C language?",
+    "options": ["James Gosling", "Dennis Ritchie", "Bjarne Stroustrup", "Guido van Rossum"],
+    "answer": 1
+  },
+  {
+    "question": "C language was developed at?",
+    "options": ["Microsoft", "Bell Labs", "Google", "IBM"],
+    "answer": 1
+  },
+  {
+    "question": "Which header file is required for printf()?",
+    "options": ["math.h", "stdio.h", "string.h", "conio.h"],
+    "answer": 1
+  },
+  {
+    "question": "Which function is used to take input?",
+    "options": ["print()", "scanf()", "input()", "read()"],
+    "answer": 1
+  },
+  {
+    "question": "What is the extension of a C source file?",
+    "options": [".cpp", ".java", ".c", ".py"],
+    "answer": 2
+  },
+  {
+    "question": "C is a?",
+    "options": ["High Level Language", "Low Level Language", "Middle Level Language", "Assembly Language"],
+    "answer": 2
+  },
+  {
+    "question": "Which symbol is used for single-line comments?",
+    "options": ["//", "#", "/*", "--"],
+    "answer": 0
+  },
+  {
+    "question": "Which loop executes at least once?",
+    "options": ["for", "while", "do-while", "foreach"],
+    "answer": 2
+  },
+  {
+    "question": "Which keyword is used to declare a constant?",
+    "options": ["constant", "fixed", "const", "final"],
+    "answer": 2
+  },
+  {
+    "question": "Which operator is used for assignment?",
+    "options": ["==", "=", "!=", ":"],
+    "answer": 1
+  },
+  {
+    "question": "Which operator is used to compare two values?",
+    "options": ["=", "==", "===", ":"],
+    "answer": 1
+  },
+  {
+    "question": "Which data type is used for decimal values?",
+    "options": ["int", "char", "float", "string"],
+    "answer": 2
+  },
+  {
+    "question": "What is the size of char in C?",
+    "options": ["1 byte", "2 bytes", "4 bytes", "8 bytes"],
+    "answer": 0
+  },
+  {
+    "question": "Which function calculates string length?",
+    "options": ["size()", "count()", "strlen()", "length()"],
+    "answer": 2
+  },
+  {
+    "question": "Which header file contains strlen()?",
+    "options": ["stdio.h", "math.h", "string.h", "stdlib.h"],
+    "answer": 2
+  },
+  {
+    "question": "Arrays in C are?",
+    "options": ["Dynamic", "Fixed Size", "Resizable", "Mutable Only"],
+    "answer": 1
+  },
+  {
+    "question": "Which keyword is used to return a value from a function?",
+    "options": ["exit", "stop", "return", "break"],
+    "answer": 2
+  },
+  {
+    "question": "Which function is the entry point of a C program?",
+    "options": ["start()", "main()", "run()", "execute()"],
+    "answer": 1
+  },
+  {
+    "question": "Which symbol is used for address-of operator?",
+    "options": ["*", "&", "%", "#"],
+    "answer": 1
+  },
+  {
+    "question": "Pointers store?",
+    "options": ["Values", "Addresses", "Characters", "Arrays"],
+    "answer": 1
+  },
+  {
+    "question": "Which keyword is used for decision making?",
+    "options": ["if", "switch", "Both", "None"],
+    "answer": 2
+  },
+  {
+    "question": "Which library contains malloc()?",
+    "options": ["stdlib.h", "stdio.h", "math.h", "string.h"],
+    "answer": 0
+  },
+  {
+    "question": "Which function is used to allocate memory dynamically?",
+    "options": ["alloc()", "malloc()", "create()", "memory()"],
+    "answer": 1
+  },
+  {
+    "question": "Which loop is best when the number of iterations is known?",
+    "options": ["while", "do-while", "for", "switch"],
+    "answer": 2
+  },
+  {
+    "question": "Which keyword is used to define a structure?",
+    "options": ["class", "struct", "object", "record"],
+    "answer": 1
+  },
+  {
+    "question": "Which keyword creates a union?",
+    "options": ["merge", "union", "combine", "group"],
+    "answer": 1
+  },
+  {
+    "question": "Which function is used to free dynamically allocated memory?",
+    "options": ["delete()", "remove()", "free()", "destroy()"],
+    "answer": 2
+  },
+  {
+    "question": "Which operator is used for modulus?",
+    "options": ["/", "%", "*", "&"],
+    "answer": 1
+  },
+  {
+    "question": "Which storage class retains value between function calls?",
+    "options": ["auto", "extern", "static", "register"],
+    "answer": 2
+  },
+  {
+    "question": "Which keyword is used to terminate a loop immediately?",
+    "options": ["continue", "stop", "exit", "break"],
+    "answer": 3
+  }
+]

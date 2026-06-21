@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Quiz Result</title>
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+
+<div class="container">
+
+    <div class="card">
+
+        <h1>Quiz Completed 🎉</h1>
+
+        <h3 id="userName"></h3>
+
+        <h3 id="categoryName"></h3>
+
+        <h2 id="scoreText"></h2>
+
+        <h2 id="percentageText"></h2>
+
+        <p id="message"></p>
+
+        <button onclick="goToLeaderboard()">
+            View Leaderboard
+        </button>
+
+        <br><br>
+
+<button onclick="reviewAnswers()">
+    Review Answers
+</button>
+
+        <br><br>
+
+<button
+    id="certificateBtn"
+    onclick="generateCertificate()"
+    style="display:none;"
+>
+    Download Certificate 🏆
+</button>
+
+    </div>
+
+</div>
+
+<script src="js/script.js"></script>
+
+</body>
+</html>
